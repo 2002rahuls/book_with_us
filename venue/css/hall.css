@@ -1,0 +1,96 @@
+.btn{
+   
+    border: 2px solid white;
+    background-color: rgb(245, 201, 8);
+    padding: 15px 25px;
+    margin: 17px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    border-radius: 10px;
+    box-shadow: 0 9px #666;
+    cursor: pointer;
+    align-items: center;
+    margin-top: 0%;
+    margin-bottom: 10%;
+    margin-left: 0%;
+
+   
+}
+
+.btn:hover {background-color: rgb(245, 201, 8)}
+
+.btn:active {
+  background-color: rgb(245, 201, 8);
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+body{
+    content: "";
+    background: url('../bg4.jpg') no-repeat center center/cover;
+    
+    height: 100%;
+    width:100%;
+
+  
+}
+
+
+#list p1{
+    font-size: 5rem;
+    font-weight: bolder;
+   position:sticky;
+color: rgb(17, 2, 2);
+background-color: rgb(233, 211, 112);
+width: 100%;
+}
+
+
+#list li{
+    font-size:2rem;
+background: black;
+opacity: 0.8;
+width: 100%;
+color: white;
+list-style-type: none
+}
+#list div1{
+    position: absolute;
+    right: 0%;
+    margin:5%
+}
+
+#list p{
+    font-size: 1.5rem;
+}
+
+#list li1{
+    font-size: 2rem;
+    align-items: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 9px 20px;
+}
+
+
